@@ -9,4 +9,4 @@ The Boston Housing dataset provides information on various attributes of homes i
 ## Files
 
 - `ALY6110_Assignmnet_2.ipynb`: Jupyter notebook containing the analysis and visualizations.
-- `data/`: Directory containing the dataset (e.g., `BostonHousing.csv`).
+- `data/`: Directory containing the dataset (`BostonHousing.csv`).
